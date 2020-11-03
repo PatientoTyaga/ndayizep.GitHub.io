@@ -28,7 +28,7 @@ First thing we want to do here is create our resume in the form of a static webs
 
 Below is a demonstration of how you would carry out the instructions above.
 
-![](GitHubRepo.gif)
+![](gitHubRepo.gif)
 
 **Step 2: Opening repository with Atom and formatting resume**
 
