@@ -27,6 +27,7 @@ First thing we want to do here is create our resume in the form of a static webs
 - Click on "Create Repository".
 
 **Step 2: Opening repository with Atom and formatting resume**
+
 As Etter suggests, we are going to use a lightweight markup in this case atom to format our resumes and readme files.
 - On your desktop, open the Atom application.
 - On the top right, click on "Open a Project".
