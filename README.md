@@ -32,7 +32,7 @@ Below is a demonstration of how you would carry out the instructions above.
 
 **Step 2: Opening repository with Atom and formatting resume**
 
-As Etter suggests, we are going to use a lightweight markup in this case atom to format our resumes and readme files. We use this as it makes your work easier to read and also allows access to many people.
+As Etter suggests, we are going to use a lightweight markup in this case atom to format our resumes and readme files. We use this as it makes your work easier to read and also allows other people to be able to contribute to the document.
 
 1) On your desktop, open the Atom application.
 2) On the top right, click on "Open a Project".
