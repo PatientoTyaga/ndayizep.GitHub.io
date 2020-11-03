@@ -2,7 +2,7 @@
 
 **10 Rice Road, Winnipeg, Manitoba, R3T 3N4**
 
-+12049145992, gpatiento@gmail.com
++1204-xxx-xxxx, ndayiz@myumanitoba.ca
 
 ------------------------------------------------
 #### Summary
