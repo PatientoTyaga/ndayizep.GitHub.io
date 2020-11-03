@@ -50,6 +50,10 @@ As Etter suggests, we are going to use a lightweight markup in this case atom to
 5) Pop-up will appear and go ahead and click on "Publish". 
 6) That's it! Go to your GitHub page and you will see your repository there.
 
+The image below shows you what you should have at the end and how your resume will be appearing in the GitHub repository.
+
+![](resumG.gif)
+
 ## Resources
 ---------------------------------------
 Markdown Resources
