@@ -70,6 +70,7 @@ Access to GitHub Desktop application
 ## Authors and Acknowledgments
 -------------------------------------------
 Author(s): Patient Ndayizeye
+Theme: Jason Long
 
 ## FAQ
 ------------------------------------------
