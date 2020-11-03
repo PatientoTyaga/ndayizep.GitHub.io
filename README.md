@@ -42,3 +42,23 @@ As Etter suggests, we are going to use a lightweight markup in this case atom to
 - Once done, on the top of the page click on "Publish repository"
 - Pop-up will appear and go ahead and click on "Publish". 
 - That's it! Go to your GitHub page and you will see your repository there.
+
+## Resources
+---------------------------------------
+Markdown Resources
+- [Getting Started with Markdown](https://www.markdownguide.org/getting-started/)
+- [Markdown Cheat Sheet](https://commonmark.org/help/)
+- [Markdown Quick Tutorial](https://commonmark.org/help/tutorial/)
+
+Access to Etter's book
+- [Etter's Book](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS)
+
+Access to GitHub Desktop application
+- [GitHub Desktop application](https://desktop.github.com)
+
+## Authors and Acknowledgments
+-------------------------------------------
+Author(s): Patient Ndayizeye
+
+## FAQ
+------------------------------------------
