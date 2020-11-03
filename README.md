@@ -16,6 +16,7 @@ This README describes the steps to post a resume on GITHUB pages using strategie
 ## Instructions
 ---------------------------------------
 **Hosting your Resume**
+
 First thing we want to do here is create our resume in the form of a static website as suggested in Etters book. This is much better than having your resume in pdf/.docx format. It may sound like a difficult thing to do, having your resume as a static website but fear not, it is pretty simple and no you don't have to do crazy amounts of coding.
 
 **Step 1: Creating repository**
@@ -26,6 +27,7 @@ First thing we want to do here is create our resume in the form of a static webs
 - Click on "Create Repository".
 
 **Step 2: Opening repository with Atom and formatting resume**
+
 As Etter suggests, we are going to use a lightweight markup in this case atom to format our resumes and readme files.
 - On your desktop, open the Atom application.
 - On the top right, click on "Open a Project".
