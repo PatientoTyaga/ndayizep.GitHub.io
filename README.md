@@ -70,3 +70,5 @@ With Markdown, you can modify/update your content at anytime/almost instantly an
 **Why is my resume not showing up?**
 It might be that during the publishing of your repository, the resume.md file was not checkmarked/selected. Ensure there is a blue tick/check mark on your GitHub desktop app before commiting to main and hitting on publish.
 
+##Testing Giphy
+![](testingGiphy.gif)
