@@ -1,8 +1,9 @@
 # Patient Ndayizeye
 **10 Rice Road, Winnipeg, Manitoba, R3T 3N4**
 +12049145992, gpatiento@gmail.com
- ---------------------------------------
- #### Summary
+
+------------------------------------------------
+#### Summary
  I am a highly motivated, confident and determined individual with the ability to put in 100% effort to get the best result. I have excellent communication skills and good customer service experience. My objective is to gain various experiences and offer my skills that would be profitable to any organization I represent.
 
  #### Education
