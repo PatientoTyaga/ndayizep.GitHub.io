@@ -1,2 +1,44 @@
-# ndayizep.GitHub.io
- resume
+# How to Host your Resume on GitHub Pages
+------------------------------------------
+ 
+## Introduction
+------------------------------------------
+This README describes the steps to post a resume on GITHUB pages using strategies described in Etter's book Modern Technical communication.
+
+## Prerequisites
+-----------------------------------------
+1. **Possess basic understanding of how Markdown works.** You can click [here](https://commonmark.org/help/) to get to know the basics. 
+2. **Use Markdown to make your Resume**. Check below on point 4 for link to a markdown text editor you can use.
+3. **Have/create a GitHub account**. You can visit [the GitHub website](https://github.com) to login/create an account where you will be hosting your resume.
+4. **Have/install text editor Atom**. You can use this to make your resume and transfer it to your GitHub account. [Click here](https://atom.io) to access the download page
+5. **Have/install GitHub desktop application**. [This link](https://desktop.github.com) should take you to the download page. We will be using this application to transfer the Markdown file to the GitHub website.
+
+## Instructions
+---------------------------------------
+**Hosting your Resume**
+First thing we want to do here is create our resume in the form of a static website as suggested in Etters book. This is much better than having your resume in pdf/.docx format. It may sound like a difficult thing to do, having your resume as a static website but fear not, it is pretty simple and no you don't have to do crazy amounts of coding.
+
+**Step 1: Creating repository**
+- Open the GitHub desktop application that we downloaded earlier.
+- On the "Let's Get started page", click on "Create a New Repository on your Hard Drive".
+- You want to name your file as "username.GitHub.io". For instance, if my user name if moses then it will be "moses.GitHub.io".
+- Click on the check mark "Initialize this repository with a README", to ensure a README file is created. 
+- Click on "Create Repository".
+
+**Step 2: Opening repository with Atom and formatting resume**
+As Etter suggests, we are going to use a lightweight markup in this case atom to format our resumes and readme files.
+- On your desktop, open the Atom application.
+- On the top right, click on "Open a Project".
+- Once clicked, a pop up will appear where you will locate your file "username.GitHub.io" that we created in step 1. Click on this to select. Your repository will appear on the top left hand side.
+- Right click on the repository and click on add new file and create a yourResume.md file and click on the enter button.
+- Using the Markdown link provided earlier, you can go ahead and start writing your resume on your newly created file.
+- Once done, save your files by being on the formatted page and holding control/command button and click on "S" to save.
+
+**Step 3: Publishing resume online at GitHub**
+
+- Go back to the GitHub Desktop application and you should see the changes made on Atom reflected here
+- Make sure both your files are selected/check marked
+- On the bottom left hand side, you will have a text box with a button "Commit to main". You can put anything in the text box and then click on commit to begin the process of pushing our repository to GitHub
+- Once done, on the top of the page click on "Publish repository"
+- Pop-up will appear and go ahead and click on "Publish". 
+- That's it! Go to your GitHub page and you will see your repository there.
