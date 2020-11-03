@@ -16,6 +16,7 @@ This README describes the steps to post a resume on GITHUB pages using strategie
 ## Instructions
 ---------------------------------------
 **Hosting your Resume**
+
 First thing we want to do here is create our resume in the form of a static website as suggested in Etters book. This is much better than having your resume in pdf/.docx format. It may sound like a difficult thing to do, having your resume as a static website but fear not, it is pretty simple and no you don't have to do crazy amounts of coding.
 
 **Step 1: Creating repository**
